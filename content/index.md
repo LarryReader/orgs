@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Beacon Orgs
 ---
 
 This is a blank Quartz installation.
